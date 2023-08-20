@@ -1,6 +1,6 @@
 {
   "name": "@bananapilot/cookiehelper",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "a small library to help magae your cookie on your application",
   "main": "cookieHelper.js",
   "scripts": {
