@@ -1,0 +1,15 @@
+{
+  "name": "@bananapilot/cookiehelper",
+  "version": "1.0.0",
+  "description": "a small library to help magae your cookie on your application",
+  "main": "cookieHelper.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "cookies",
+    "cookie"
+  ],
+  "author": "Fabio Petrosillo",
+  "license": "ISC"
+}
