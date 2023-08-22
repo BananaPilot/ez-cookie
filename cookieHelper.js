@@ -26,8 +26,6 @@ export const clearCookies = () => {
   });
 }
 
-
-
 const CookieHelper = {
   getCookie,
   getCookies,
