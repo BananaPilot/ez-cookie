@@ -62,7 +62,7 @@ export const getCookies = () => {
 a fast and easy way to get a splitted array of all your cookies
 
 
-- excample
+- example
 
 ```javaScript
 cookieHelper.getCookies()
@@ -85,7 +85,7 @@ export const clearCookies = () => {
 
 used to drop all the cookies on your list by setting the expiration date by -1s 
 
-- eaxmple
+- example
 
 ```javaScript
 if (userState === "unauthenticated"){
