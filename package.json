@@ -1,6 +1,6 @@
 {
   "name": "ez-cookie",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "a small library to help magae your cookie on your application",
   "main": "cookieHelper.js",
   "scripts": {
