@@ -92,3 +92,12 @@ if (userState === "unauthenticated"){
   cookieHelper.clearCookies()
 }
 ```
+
+
+if you want to help improve the package you can find the git hub repository here: 
+
+```
+https://github.com/bananapilota/ez-cookie
+```
+
+if the library was useful to you, please star the repository, thank you very much!
